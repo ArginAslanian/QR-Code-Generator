@@ -1,4 +1,4 @@
-# QR Code Generator 🔲
+# QR Code Generator
 
 A simple web application built with Python and Flask that generates QR codes from text or URLs. Enter any text, submit the form, and get a QR code instantly.
 
