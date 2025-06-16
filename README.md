@@ -19,3 +19,24 @@ A simple web application built with Python and Flask that generates QR codes fro
 
 - Python 3.7+
 - pip
+
+
+## 🧪 Run Locally
+
+1. Clone the repository and cd to the directory
+
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the app:
+    ```bash
+    python app.py
+    ```
+
+4. Open your browser and visit:
+    ```
+    http://127.0.0.1:5000
+    ```
+
